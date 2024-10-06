@@ -13,7 +13,7 @@ i = []
 j = []
 k = []
 
-#menen tukan baris dan kolom matriks a dan b
+#menentukan baris dan kolom matriks a dan b
 baris_a = len(a)
 kolom_a = len(a[0])
 
