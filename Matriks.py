@@ -1,4 +1,4 @@
-deklarasi matiriks 3×3
+#deklarasi matiriks 3×3
 a = [[2,2,3],[3,1,2],[1,3,4]]
 b = [[2,4,1],[4,3,5],[4,1,2]]
 
